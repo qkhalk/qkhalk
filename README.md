@@ -40,26 +40,14 @@ fun_fact: code by night, powered by coffee ☕
 
 ## 🚀 Featured projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/qkhalk/goclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=goclaw&theme=radical" alt="goclaw" /></a></td>
-      <td><a href="https://github.com/qkhalk/9router"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=9router&theme=radical" alt="9router" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/qkhalk/omniagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=omniagent&theme=radical" alt="omniagent" /></a></td>
-      <td><a href="https://github.com/qkhalk/OneDev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=OneDev&theme=radical" alt="OneDev" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/qkhalk/Vina-TTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Vina-TTS&theme=radical" alt="Vina-TTS" /></a></td>
-      <td><a href="https://github.com/qkhalk/Dia-Finetuning-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Dia-Finetuning-Vietnamese&theme=radical" alt="Dia-Finetuning-Vietnamese" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/qkhalk/F5-TTS-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=F5-TTS-Vietnamese&theme=radical" alt="F5-TTS-Vietnamese" /></a></td>
-      <td><a href="https://github.com/qkhalk/2fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=2fa&theme=radical" alt="2fa" /></a></td>
-    </tr>
-  </table>
-</div>
+- 🔌 [**9router**](https://github.com/qkhalk/9router) — AI gateway & token saver, OpenAI-compatible, kết nối mọi AI code tool
+- 🤖 [**goclaw**](https://github.com/qkhalk/goclaw) — reliability-hardened agent runtime viết lại bằng Go
+- 🌐 [**omniagent**](https://github.com/qkhalk/omniagent) — một cổng — mọi CLI agent, điều khiển qua Telegram bot
+- 🧰 [**OneDev**](https://github.com/qkhalk/OneDev) — all-in-one developer platform: converter, shortener, cloud, mail, monitor
+- 🎙️ [**Vina-TTS**](https://github.com/qkhalk/Vina-TTS) — TTS tiếng Việt, instant voice cloning, chạy on-device trên CPU
+- 🗣️ [**Dia-Finetuning-Vietnamese**](https://github.com/qkhalk/Dia-Finetuning-Vietnamese) — fine-tune Dia 1.6B sinh giọng tiếng Việt tự nhiên 44.1 kHz
+- 🔊 [**F5-TTS-Vietnamese**](https://github.com/qkhalk/F5-TTS-Vietnamese) — pipeline fine-tune F5-TTS cho tiếng Việt
+- 🔐 [**2fa**](https://github.com/qkhalk/2fa) — personal 2FA vault, local-first, mã hóa trên thiết bị
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6fb,1:005bea&height=3&section=header" width="100%" />
