@@ -1,0 +1,30 @@
+# File này đặt tại: github.com/USERNAME/USERNAME -> .github/workflows/snake.yml
+# Sau khi commit, vào tab Actions -> chọn workflow "Generate snake" -> Run workflow
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # chạy mỗi ngày lúc 0h UTC
+  workflow_dispatch: # cho phép chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake grids
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
