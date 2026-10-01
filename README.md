@@ -44,47 +44,18 @@ fun_fact: code by night, powered by coffee ☕
   <table>
     <tr>
       <td><a href="https://github.com/qkhalk/goclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=goclaw&theme=radical" alt="goclaw" /></a></td>
-      <td><a href="https://github.com/qkhalk/omniagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=omniagent&theme=radical" alt="omniagent" /></a></td>
+      <td><a href="https://github.com/qkhalk/Vina-TTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Vina-TTS&theme=radical" alt="Vina-TTS" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/qkhalk/9router"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=9router&theme=radical" alt="9router" /></a></td>
-      <td><a href="https://github.com/qkhalk/OneDev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=OneDev&theme=radical" alt="OneDev" /></a></td>
+      <td><a href="https://github.com/qkhalk/Dia-Finetuning-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Dia-Finetuning-Vietnamese&theme=radical" alt="Dia-Finetuning-Vietnamese" /></a></td>
+      <td><a href="https://github.com/qkhalk/F5-TTS-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=F5-TTS-Vietnamese&theme=radical" alt="F5-TTS-Vietnamese" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/qkhalk/gotools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=gotools&theme=radical" alt="gotools" /></a></td>
-      <td><a href="https://github.com/qkhalk/NeoClaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=NeoClaw&theme=radical" alt="NeoClaw" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/qkhalk/ssh_dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=ssh_dashboard&theme=radical" alt="ssh_dashboard" /></a></td>
-      <td><a href="https://github.com/qkhalk/ZyroXvip_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=ZyroXvip_bot&theme=radical" alt="ZyroXvip_bot" /></a></td>
+      <td><a href="https://github.com/qkhalk/AI_social"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=AI_social&theme=radical" alt="AI_social" /></a></td>
+      <td><a href="https://github.com/qkhalk/2fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=2fa&theme=radical" alt="2fa" /></a></td>
     </tr>
   </table>
 </div>
-
-### 🗂️ The full archive — mọi repo public
-
-<p align="center">
-  <a href="https://github.com/qkhalk/2fa"><img src="https://img.shields.io/badge/2fa-181717?style=for-the-badge&logo=github&logoColor=white" alt="2fa" /></a>
-  <a href="https://github.com/qkhalk/AI_social"><img src="https://img.shields.io/badge/AI_social-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI_social" /></a>
-  <a href="https://github.com/qkhalk/birthday"><img src="https://img.shields.io/badge/birthday-181717?style=for-the-badge&logo=github&logoColor=white" alt="birthday" /></a>
-  <a href="https://github.com/qkhalk/bot-hoc-them"><img src="https://img.shields.io/badge/bot--hoc--them-181717?style=for-the-badge&logo=github&logoColor=white" alt="bot-hoc-them" /></a>
-  <a href="https://github.com/qkhalk/bot_toptop_API"><img src="https://img.shields.io/badge/bot__toptop__API-181717?style=for-the-badge&logo=github&logoColor=white" alt="bot_toptop_API" /></a>
-  <a href="https://github.com/qkhalk/bot_toptop_nodejs"><img src="https://img.shields.io/badge/bot__toptop__nodejs-181717?style=for-the-badge&logo=github&logoColor=white" alt="bot_toptop_nodejs" /></a>
-  <a href="https://github.com/qkhalk/codepilot"><img src="https://img.shields.io/badge/codepilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="codepilot" /></a>
-  <a href="https://github.com/qkhalk/Deep-Live-Cam"><img src="https://img.shields.io/badge/Deep--Live--Cam-181717?style=for-the-badge&logo=github&logoColor=white" alt="Deep-Live-Cam" /></a>
-  <a href="https://github.com/qkhalk/dem-trang-ram"><img src="https://img.shields.io/badge/dem--trang--ram-181717?style=for-the-badge&logo=github&logoColor=white" alt="dem-trang-ram" /></a>
-  <a href="https://github.com/qkhalk/download_github-master"><img src="https://img.shields.io/badge/download__github__master-181717?style=for-the-badge&logo=github&logoColor=white" alt="download_github-master" /></a>
-  <a href="https://github.com/qkhalk/fb_bot"><img src="https://img.shields.io/badge/fb__bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="fb_bot" /></a>
-  <a href="https://github.com/qkhalk/goclaw-docs"><img src="https://img.shields.io/badge/goclaw--docs-181717?style=for-the-badge&logo=github&logoColor=white" alt="goclaw-docs" /></a>
-  <a href="https://github.com/qkhalk/manage-server-bot"><img src="https://img.shields.io/badge/manage--server--bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="manage-server-bot" /></a>
-  <a href="https://github.com/qkhalk/Media"><img src="https://img.shields.io/badge/Media-181717?style=for-the-badge&logo=github&logoColor=white" alt="Media" /></a>
-  <a href="https://github.com/qkhalk/9proxy"><img src="https://img.shields.io/badge/9proxy-181717?style=for-the-badge&logo=github&logoColor=white" alt="9proxy" /></a>
-  <a href="https://github.com/qkhalk/NewsClaw"><img src="https://img.shields.io/badge/NewsClaw-181717?style=for-the-badge&logo=github&logoColor=white" alt="NewsClaw" /></a>
-  <a href="https://github.com/qkhalk/Neuro-Code"><img src="https://img.shields.io/badge/Neuro--Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neuro-Code" /></a>
-  <a href="https://github.com/qkhalk/NullMedia"><img src="https://img.shields.io/badge/NullMedia-181717?style=for-the-badge&logo=github&logoColor=white" alt="NullMedia" /></a>
-  <a href="https://github.com/qkhalk/tool_loot_acc_lq"><img src="https://img.shields.io/badge/tool__loot__acc__lq-181717?style=for-the-badge&logo=github&logoColor=white" alt="tool_loot_acc_lq" /></a>
-  <a href="https://github.com/qkhalk/tra-cuu-diem-vao-10-dien-bien"><img src="https://img.shields.io/badge/tra--cuu--diem--vao--10--dien--bien-181717?style=for-the-badge&logo=github&logoColor=white" alt="tra-cuu-diem-vao-10-dien-bien" /></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6fb,1:005bea&height=3&section=header" width="100%" />
