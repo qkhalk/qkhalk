@@ -109,17 +109,19 @@ fun_fact: code by night, powered by coffee ☕
   <img width="70%" src="https://streak-stats.demolab.com?user=qkhalk&theme=radical&hide_border=true&locale=vi" />
 </p>
 
-### 🏆 Trophies
+<!-- Dịch vụ trophy & activity graph đang tạm lỗi 402 (Vercel hết băng thông).
+Dán lại 2 đoạn dưới đây khi dịch vụ hoạt động trở lại:
 
+### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qkhalk&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ### 📈 Contribution graph
-
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=qkhalk&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
+-->
 
 ### 🧊 3D contributions
 
