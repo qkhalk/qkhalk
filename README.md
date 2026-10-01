@@ -44,14 +44,18 @@ fun_fact: code by night, powered by coffee ☕
   <table>
     <tr>
       <td><a href="https://github.com/qkhalk/goclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=goclaw&theme=radical" alt="goclaw" /></a></td>
+      <td><a href="https://github.com/qkhalk/9router"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=9router&theme=radical" alt="9router" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/qkhalk/omniagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=omniagent&theme=radical" alt="omniagent" /></a></td>
+      <td><a href="https://github.com/qkhalk/OneDev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=OneDev&theme=radical" alt="OneDev" /></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/qkhalk/Vina-TTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Vina-TTS&theme=radical" alt="Vina-TTS" /></a></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/qkhalk/Dia-Finetuning-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=Dia-Finetuning-Vietnamese&theme=radical" alt="Dia-Finetuning-Vietnamese" /></a></td>
-      <td><a href="https://github.com/qkhalk/F5-TTS-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=F5-TTS-Vietnamese&theme=radical" alt="F5-TTS-Vietnamese" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/qkhalk/AI_social"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=AI_social&theme=radical" alt="AI_social" /></a></td>
+      <td><a href="https://github.com/qkhalk/F5-TTS-Vietnamese"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=F5-TTS-Vietnamese&theme=radical" alt="F5-TTS-Vietnamese" /></a></td>
       <td><a href="https://github.com/qkhalk/2fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=2fa&theme=radical" alt="2fa" /></a></td>
     </tr>
   </table>
