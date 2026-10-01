@@ -3,46 +3,132 @@
 </p>
 
 <p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FB&center=true&vCenter=true&width=650&lines=Building+AI+gateways+%26+agent+runtimes+%F0%9F%A4%96;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript;Self-hosted+%26+privacy-first+%F0%9F%9B%A1%EF%B8%8F;Night+owl+%E2%98%95+%2B+lofi+%F0%9F%8E%A7" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://hits.sh/github.com/qkhalk.svg?view=today-total" alt="visitor count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6fb,1:005bea&height=3&section=header" width="100%" />
 </p>
 
 ## ✨ A lil bit about me
 
-- 🔭 Đang xây dựng AI gateway & agent runtime: **9router**, **OmniAgent**, **GoClaw**
-- 🌱 Thích làm tool nhỏ cho riêng mình — Telegram bot, web dashboard, self-hosted
-- 💬 Ask me about Go, Python, TypeScript & AI agents
-- ⚡ Fun fact: cà phê + lofi + code đêm là combo hoàn hảo
+```yaml
+name: qkhalk
+role: builder of small tools & AI gateways
+languages: [Go, Python, TypeScript]
+currently_building: 9router, OmniAgent, GoClaw
+learning: security & self-hosting
+fun_fact: code by night, powered by coffee ☕
+```
+
+- 🔭 Đang xây **9router** — AI gateway, **OmniAgent** — một cổng cho mọi CLI agent, và **GoClaw** — agent runtime viết lại bằng Go
+- 🌱 Học security mỗi ngày, nghiện self-hosted & privacy-first tools
+- 🤖 Bot của anh quản lý cả lịch học thêm lẫn server SSH — automcate mọi thứ có thể automcate
+- 🌕 Không code thì đang ngắm trăng rằm (từng làm cả landing page về chuyện này)
+- 💬 Ask me anything — Go, Python, TS, AI agents
+- ⚡ Fun fact: nếu commit lúc 2h sáng thì đó không phải mất ngủ, đó là productivity
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:005bea,1:00c6fb&height=3&section=header" width="100%" />
+</p>
 
 ## 🚀 Featured projects
 
-<p>
-  <a href="https://github.com/qkhalk/9router">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=9router&theme=radical" />
-  </a>
-  <a href="https://github.com/qkhalk/omniagent">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=omniagent&theme=radical" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/qkhalk/goclaw">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=goclaw&theme=radical" alt="goclaw" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/qkhalk/omniagent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=omniagent&theme=radical" alt="omniagent" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/qkhalk/9router">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=9router&theme=radical" alt="9router" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/qkhalk/OneDev">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=OneDev&theme=radical" alt="OneDev" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/qkhalk/ZyroXvip_bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=ZyroXvip_bot&theme=radical" alt="ZyroXvip_bot" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/qkhalk/goclaw-docs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qkhalk&repo=goclaw-docs&theme=radical" alt="goclaw-docs" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><i>📖 Tài liệu GoClaw: <a href="https://qkhalk.github.io/goclaw-docs/">qkhalk.github.io/goclaw-docs</a></i></p>
+</div>
 
-<br clear="both" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6fb,1:005bea&height=3&section=header" width="100%" />
+</p>
 
 ## 🛠️ My toolbox
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,nodejs,react,nextjs,tailwind,docker,linux,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,nodejs,react,nextjs,tailwind,docker,linux,git,github,vscode&theme=dark" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:005bea,1:00c6fb&height=3&section=header" width="100%" />
 </p>
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qkhalk&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkhalk&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qkhalk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkhalk&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=qkhalk&theme=radical&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=qkhalk&theme=radical&hide_border=true&locale=vi" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qkhalk&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</p>
+
+### 📈 Contribution graph
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=qkhalk&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+### 🧊 3D contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qkhalk/qkhalk/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qkhalk/qkhalk/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/qkhalk/qkhalk/main/profile-3d-contrib/profile-green-animate.svg" width="90%" />
+  </picture>
 </p>
 
 ## 🐍 The snake ate my contributions
@@ -53,6 +139,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qkhalk/qkhalk/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/qkhalk/qkhalk/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+### 💭 Quote of the day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
 
 <p align="center">
